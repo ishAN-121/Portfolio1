@@ -99,7 +99,7 @@ body {
 
 .herobackground {
     width: 100%;
-    height: 50vh;
+    height: 30vh;
     animation-name: color;
     animation-duration: 6s;
     animation-iteration-count: infinite;
@@ -133,12 +133,14 @@ body {
     text-decoration: underline;
 }
 
-.hero-text p {
+.hero-text p{
     font-size: 1.75rem;
     margin-bottom: 2rem;
+    
     font-family: "Tilt Prism";
     text-decoration: underline;
     display: flex;
+    
 }
 
 
